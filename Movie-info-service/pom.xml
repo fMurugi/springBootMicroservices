@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fiona</groupId>
-	<artifactId>Movie-catalog-service</artifactId>
+	<artifactId>Movie-info-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Rating-service</name>
+	<name>info-service</name>
 	<description>microservice trial</description>
 	<properties>
 		<java.version>11</java.version>
